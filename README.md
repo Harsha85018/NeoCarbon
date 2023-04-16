@@ -1,6 +1,8 @@
-# decarbonus
+# NEOcarbon
 
-A new Flutter project.
+A new Flutter project based on calculating your carbon emission footprint by answering a series of predefined questions which adds to the input and hence calculates your annual carbon emissions and further gives you variety of options to offset your emissions. 
+
+#Techstack used
 
 ## Getting Started
 
